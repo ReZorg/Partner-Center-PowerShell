@@ -100,6 +100,7 @@
                       'Get-PartnerAzureBillingAccount',
                       'Get-PartnerAzureBillingPolicy',
                       'Get-PartnerAzureBillingProfile',
+                      'Get-PartnerAzurePriceSheet',
                       'Get-PartnerAzureRateCard',
                       'Get-PartnerBillingProfile',
                       'Get-PartnerContext',
